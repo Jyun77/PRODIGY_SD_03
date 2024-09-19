@@ -88,6 +88,10 @@ Resources
 Stars
  0 stars
 Watchers
+
+Output: Display all contacts in a readable format.
+Process: Iterate through the contact list and print each contact's details.
+
  1 watching
 Forks
  0 forks
