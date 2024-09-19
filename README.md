@@ -1,13 +1,9 @@
 
-# PRODIGY_SD_03
-Task-03
+# Simple Contact Management System Implementation 
 
-PRODIGY INFOTECH
-
-Implement a Simple Contact Management System
 Develop a program that allows users to store and manage contact information. The program should provide options to add a new contact by entering their name, phone number, and email address. It should also allow users to view their contact list, edit existing contacts, and delete contacts if needed. The program should store the contacts in memory or in a file for persistent storage.
 
-1. Requirements and Overview
+ ### 1. Requirements and Overview
 
 The Contact Management System (CMS) will have the following features:
 
@@ -17,12 +13,12 @@ The Contact Management System (CMS) will have the following features:
     Delete contacts.
     Store contacts either in memory or in a file for persistent storage.
 
-2. Data Structure
+### 2. Data Structure
 
     Each contact will be represented as an object or a dictionary with keys for name, phone number, and email.
     The contact list can be an array (list) of these contact objects or dictionaries.
 
-3. Functionalities
+### 3. Functionalities
 a. Add a New Contact
 
     Input: Name, phone number, and email address.
